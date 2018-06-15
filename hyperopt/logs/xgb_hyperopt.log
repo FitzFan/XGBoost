@@ -1,0 +1,2299 @@
+INFO:hyperopt.tpe:tpe_transform took 0.003874 seconds
+INFO:hyperopt.tpe:TPE using 0 trials
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8606811999999999
+
+INFO:root:	Std Dev: 0.011927446942242067
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004881 seconds
+INFO:hyperopt.tpe:TPE using 1/1 trials with best loss 0.139319
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8600654000000001
+
+INFO:root:	Std Dev: 0.012745979406856093
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004339 seconds
+INFO:hyperopt.tpe:TPE using 2/2 trials with best loss 0.139319
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8602169999999999
+
+INFO:root:	Std Dev: 0.011806305417021889
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004150 seconds
+INFO:hyperopt.tpe:TPE using 3/3 trials with best loss 0.139319
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8587496
+
+INFO:root:	Std Dev: 0.011478071172457478
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004148 seconds
+INFO:hyperopt.tpe:TPE using 4/4 trials with best loss 0.139319
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8602757999999999
+
+INFO:root:	Std Dev: 0.011586673645183948
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004145 seconds
+INFO:hyperopt.tpe:TPE using 5/5 trials with best loss 0.139319
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.1, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8594132
+
+INFO:root:	Std Dev: 0.011537513898583176
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004533 seconds
+INFO:hyperopt.tpe:TPE using 6/6 trials with best loss 0.139319
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 1.0, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8601713999999999
+
+INFO:root:	Std Dev: 0.011968485260884095
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004148 seconds
+INFO:hyperopt.tpe:TPE using 7/7 trials with best loss 0.139319
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.1, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8602922
+
+INFO:root:	Std Dev: 0.011957584160690649
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004155 seconds
+INFO:hyperopt.tpe:TPE using 8/8 trials with best loss 0.139319
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8578674
+
+INFO:root:	Std Dev: 0.011501016921994333
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004262 seconds
+INFO:hyperopt.tpe:TPE using 9/9 trials with best loss 0.139319
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.1, 'eta': 0.1, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8557281999999999
+
+INFO:root:	Std Dev: 0.010295271388360767
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.026622 seconds
+INFO:hyperopt.tpe:TPE using 10/10 trials with best loss 0.139319
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8590144000000001
+
+INFO:root:	Std Dev: 0.011768811912848306
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004417 seconds
+INFO:hyperopt.tpe:TPE using 11/11 trials with best loss 0.139319
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8582058
+
+INFO:root:	Std Dev: 0.011527885329061884
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.007557 seconds
+INFO:hyperopt.tpe:TPE using 12/12 trials with best loss 0.139319
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.1, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8605031999999999
+
+INFO:root:	Std Dev: 0.010868237859009163
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004152 seconds
+INFO:hyperopt.tpe:TPE using 13/13 trials with best loss 0.139319
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8573898
+
+INFO:root:	Std Dev: 0.01144032786942752
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004538 seconds
+INFO:hyperopt.tpe:TPE using 14/14 trials with best loss 0.139319
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.1, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8599840000000001
+
+INFO:root:	Std Dev: 0.011770722492693477
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004155 seconds
+INFO:hyperopt.tpe:TPE using 15/15 trials with best loss 0.139319
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8607958
+
+INFO:root:	Std Dev: 0.012166776818862078
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.005165 seconds
+INFO:hyperopt.tpe:TPE using 16/16 trials with best loss 0.139204
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8501899999999999
+
+INFO:root:	Std Dev: 0.01159724363803743
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004698 seconds
+INFO:hyperopt.tpe:TPE using 17/17 trials with best loss 0.139204
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.1, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8558593999999999
+
+INFO:root:	Std Dev: 0.010492775602289424
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004691 seconds
+INFO:hyperopt.tpe:TPE using 18/18 trials with best loss 0.139204
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8582422
+
+INFO:root:	Std Dev: 0.011206477401931435
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004225 seconds
+INFO:hyperopt.tpe:TPE using 19/19 trials with best loss 0.139204
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8599362000000002
+
+INFO:root:	Std Dev: 0.011401722069933107
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004340 seconds
+INFO:hyperopt.tpe:TPE using 20/20 trials with best loss 0.139204
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004476 seconds
+INFO:hyperopt.tpe:TPE using 21/21 trials with best loss 0.139204
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8611549999999999
+
+INFO:root:	Std Dev: 0.01168479451252782
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004552 seconds
+INFO:hyperopt.tpe:TPE using 22/22 trials with best loss 0.138845
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8612525999999999
+
+INFO:root:	Std Dev: 0.012028653467450134
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004601 seconds
+INFO:hyperopt.tpe:TPE using 23/23 trials with best loss 0.138747
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004231 seconds
+INFO:hyperopt.tpe:TPE using 24/24 trials with best loss 0.138747
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004190 seconds
+INFO:hyperopt.tpe:TPE using 25/25 trials with best loss 0.138747
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8612021999999999
+
+INFO:root:	Std Dev: 0.011665982194397524
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004245 seconds
+INFO:hyperopt.tpe:TPE using 26/26 trials with best loss 0.138747
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8598178000000001
+
+INFO:root:	Std Dev: 0.01183999813175662
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004512 seconds
+INFO:hyperopt.tpe:TPE using 27/27 trials with best loss 0.138747
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004174 seconds
+INFO:hyperopt.tpe:TPE using 28/28 trials with best loss 0.138747
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.007843 seconds
+INFO:hyperopt.tpe:TPE using 29/29 trials with best loss 0.138747
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8612770000000001
+
+INFO:root:	Std Dev: 0.011718536785793697
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004315 seconds
+INFO:hyperopt.tpe:TPE using 30/30 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8609653999999999
+
+INFO:root:	Std Dev: 0.012157776747415635
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004202 seconds
+INFO:hyperopt.tpe:TPE using 31/31 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004396 seconds
+INFO:hyperopt.tpe:TPE using 32/32 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004411 seconds
+INFO:hyperopt.tpe:TPE using 33/33 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.008002 seconds
+INFO:hyperopt.tpe:TPE using 34/34 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8609808000000001
+
+INFO:root:	Std Dev: 0.012032610945260395
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.005486 seconds
+INFO:hyperopt.tpe:TPE using 35/35 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004195 seconds
+INFO:hyperopt.tpe:TPE using 36/36 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8608338
+
+INFO:root:	Std Dev: 0.011958097614587349
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004480 seconds
+INFO:hyperopt.tpe:TPE using 37/37 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8590824000000001
+
+INFO:root:	Std Dev: 0.012145520929132672
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004462 seconds
+INFO:hyperopt.tpe:TPE using 38/38 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8606798000000001
+
+INFO:root:	Std Dev: 0.011903461872917489
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004211 seconds
+INFO:hyperopt.tpe:TPE using 39/39 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.861018
+
+INFO:root:	Std Dev: 0.011458528788636008
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.005059 seconds
+INFO:hyperopt.tpe:TPE using 40/40 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8566922
+
+INFO:root:	Std Dev: 0.010909358723591398
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004170 seconds
+INFO:hyperopt.tpe:TPE using 41/41 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8607026
+
+INFO:root:	Std Dev: 0.011813906019602489
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004406 seconds
+INFO:hyperopt.tpe:TPE using 42/42 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8605886000000001
+
+INFO:root:	Std Dev: 0.01163842009209152
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004293 seconds
+INFO:hyperopt.tpe:TPE using 43/43 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.860412
+
+INFO:root:	Std Dev: 0.011441477841607702
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004184 seconds
+INFO:hyperopt.tpe:TPE using 44/44 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004302 seconds
+INFO:hyperopt.tpe:TPE using 45/45 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8566204
+
+INFO:root:	Std Dev: 0.011598275916704176
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004683 seconds
+INFO:hyperopt.tpe:TPE using 46/46 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8600268
+
+INFO:root:	Std Dev: 0.012051710059572457
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004445 seconds
+INFO:hyperopt.tpe:TPE using 47/47 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8612188
+
+INFO:root:	Std Dev: 0.011651301650888653
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004343 seconds
+INFO:hyperopt.tpe:TPE using 48/48 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004817 seconds
+INFO:hyperopt.tpe:TPE using 49/49 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8579414
+
+INFO:root:	Std Dev: 0.011654297792660022
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004414 seconds
+INFO:hyperopt.tpe:TPE using 50/50 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8599866
+
+INFO:root:	Std Dev: 0.011813317867559485
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004179 seconds
+INFO:hyperopt.tpe:TPE using 51/51 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004298 seconds
+INFO:hyperopt.tpe:TPE using 52/52 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004178 seconds
+INFO:hyperopt.tpe:TPE using 53/53 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 1.0, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004431 seconds
+INFO:hyperopt.tpe:TPE using 54/54 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8611044
+
+INFO:root:	Std Dev: 0.01206983596574538
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004493 seconds
+INFO:hyperopt.tpe:TPE using 55/55 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.005807 seconds
+INFO:hyperopt.tpe:TPE using 56/56 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.860434
+
+INFO:root:	Std Dev: 0.01184053860261435
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004423 seconds
+INFO:hyperopt.tpe:TPE using 57/57 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004196 seconds
+INFO:hyperopt.tpe:TPE using 58/58 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004376 seconds
+INFO:hyperopt.tpe:TPE using 59/59 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.1, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8603766
+
+INFO:root:	Std Dev: 0.011702436030160539
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004414 seconds
+INFO:hyperopt.tpe:TPE using 60/60 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8599992000000001
+
+INFO:root:	Std Dev: 0.011024007790272988
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004165 seconds
+INFO:hyperopt.tpe:TPE using 61/61 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 1.0, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8610402
+
+INFO:root:	Std Dev: 0.012022672771060536
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004161 seconds
+INFO:hyperopt.tpe:TPE using 62/62 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004152 seconds
+INFO:hyperopt.tpe:TPE using 63/63 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8544653999999999
+
+INFO:root:	Std Dev: 0.010561101393320697
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004184 seconds
+INFO:hyperopt.tpe:TPE using 64/64 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004183 seconds
+INFO:hyperopt.tpe:TPE using 65/65 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004315 seconds
+INFO:hyperopt.tpe:TPE using 66/66 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8612188
+
+INFO:root:	Std Dev: 0.011651301650888653
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004210 seconds
+INFO:hyperopt.tpe:TPE using 67/67 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8612188
+
+INFO:root:	Std Dev: 0.011651301650888653
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004179 seconds
+INFO:hyperopt.tpe:TPE using 68/68 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.005406 seconds
+INFO:hyperopt.tpe:TPE using 69/69 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8612188
+
+INFO:root:	Std Dev: 0.011651301650888653
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.025931 seconds
+INFO:hyperopt.tpe:TPE using 70/70 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8612188
+
+INFO:root:	Std Dev: 0.011651301650888653
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004160 seconds
+INFO:hyperopt.tpe:TPE using 71/71 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.1, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8603137999999999
+
+INFO:root:	Std Dev: 0.011959287309869253
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004186 seconds
+INFO:hyperopt.tpe:TPE using 72/72 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8606356
+
+INFO:root:	Std Dev: 0.011938803584949366
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004508 seconds
+INFO:hyperopt.tpe:TPE using 73/73 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004482 seconds
+INFO:hyperopt.tpe:TPE using 74/74 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004287 seconds
+INFO:hyperopt.tpe:TPE using 75/75 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8597284000000001
+
+INFO:root:	Std Dev: 0.01202434122270323
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004245 seconds
+INFO:hyperopt.tpe:TPE using 76/76 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004470 seconds
+INFO:hyperopt.tpe:TPE using 77/77 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004265 seconds
+INFO:hyperopt.tpe:TPE using 78/78 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004270 seconds
+INFO:hyperopt.tpe:TPE using 79/79 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8572179999999999
+
+INFO:root:	Std Dev: 0.011943207927520964
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004179 seconds
+INFO:hyperopt.tpe:TPE using 80/80 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8610624
+
+INFO:root:	Std Dev: 0.01184052960977672
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004443 seconds
+INFO:hyperopt.tpe:TPE using 81/81 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 1.0, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004265 seconds
+INFO:hyperopt.tpe:TPE using 82/82 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004191 seconds
+INFO:hyperopt.tpe:TPE using 83/83 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004214 seconds
+INFO:hyperopt.tpe:TPE using 84/84 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004247 seconds
+INFO:hyperopt.tpe:TPE using 85/85 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8609848
+
+INFO:root:	Std Dev: 0.011972040734979143
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004418 seconds
+INFO:hyperopt.tpe:TPE using 86/86 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004447 seconds
+INFO:hyperopt.tpe:TPE using 87/87 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8602525999999999
+
+INFO:root:	Std Dev: 0.011980648189476245
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004555 seconds
+INFO:hyperopt.tpe:TPE using 88/88 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004187 seconds
+INFO:hyperopt.tpe:TPE using 89/89 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004303 seconds
+INFO:hyperopt.tpe:TPE using 90/90 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8611572000000001
+
+INFO:root:	Std Dev: 0.011952773475641523
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004259 seconds
+INFO:hyperopt.tpe:TPE using 91/91 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004417 seconds
+INFO:hyperopt.tpe:TPE using 92/92 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.859735
+
+INFO:root:	Std Dev: 0.011677079018316189
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004433 seconds
+INFO:hyperopt.tpe:TPE using 93/93 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8603888
+
+INFO:root:	Std Dev: 0.01201247137603247
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004247 seconds
+INFO:hyperopt.tpe:TPE using 94/94 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.007729 seconds
+INFO:hyperopt.tpe:TPE using 95/95 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 1.0, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8608971999999999
+
+INFO:root:	Std Dev: 0.012033277531911243
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004182 seconds
+INFO:hyperopt.tpe:TPE using 96/96 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004233 seconds
+INFO:hyperopt.tpe:TPE using 97/97 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004431 seconds
+INFO:hyperopt.tpe:TPE using 98/98 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.860036
+
+INFO:root:	Std Dev: 0.011564546164895528
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004171 seconds
+INFO:hyperopt.tpe:TPE using 99/99 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004237 seconds
+INFO:hyperopt.tpe:TPE using 100/100 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004439 seconds
+INFO:hyperopt.tpe:TPE using 101/101 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004173 seconds
+INFO:hyperopt.tpe:TPE using 102/102 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 1.0, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004239 seconds
+INFO:hyperopt.tpe:TPE using 103/103 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004417 seconds
+INFO:hyperopt.tpe:TPE using 104/104 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8595416
+
+INFO:root:	Std Dev: 0.010762790838811275
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004402 seconds
+INFO:hyperopt.tpe:TPE using 105/105 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004512 seconds
+INFO:hyperopt.tpe:TPE using 106/106 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.007771 seconds
+INFO:hyperopt.tpe:TPE using 107/107 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004157 seconds
+INFO:hyperopt.tpe:TPE using 108/108 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8610982
+
+INFO:root:	Std Dev: 0.011567314440266568
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.028208 seconds
+INFO:hyperopt.tpe:TPE using 109/109 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.860911
+
+INFO:root:	Std Dev: 0.012018635613080197
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.005127 seconds
+INFO:hyperopt.tpe:TPE using 110/110 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004167 seconds
+INFO:hyperopt.tpe:TPE using 111/111 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8610393999999999
+
+INFO:root:	Std Dev: 0.011623778311719452
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004291 seconds
+INFO:hyperopt.tpe:TPE using 112/112 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.1, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8608588000000001
+
+INFO:root:	Std Dev: 0.011999793138217014
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004422 seconds
+INFO:hyperopt.tpe:TPE using 113/113 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004225 seconds
+INFO:hyperopt.tpe:TPE using 114/114 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004555 seconds
+INFO:hyperopt.tpe:TPE using 115/115 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004343 seconds
+INFO:hyperopt.tpe:TPE using 116/116 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004418 seconds
+INFO:hyperopt.tpe:TPE using 117/117 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004282 seconds
+INFO:hyperopt.tpe:TPE using 118/118 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8590054
+
+INFO:root:	Std Dev: 0.011373024797299961
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004532 seconds
+INFO:hyperopt.tpe:TPE using 119/119 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8611514
+
+INFO:root:	Std Dev: 0.011616672614823917
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004302 seconds
+INFO:hyperopt.tpe:TPE using 120/120 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004426 seconds
+INFO:hyperopt.tpe:TPE using 121/121 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004405 seconds
+INFO:hyperopt.tpe:TPE using 122/122 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.007752 seconds
+INFO:hyperopt.tpe:TPE using 123/123 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.1, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.860205
+
+INFO:root:	Std Dev: 0.01127105654319951
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004289 seconds
+INFO:hyperopt.tpe:TPE using 124/124 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004184 seconds
+INFO:hyperopt.tpe:TPE using 125/125 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004268 seconds
+INFO:hyperopt.tpe:TPE using 126/126 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8520704
+
+INFO:root:	Std Dev: 0.011797651623946165
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004288 seconds
+INFO:hyperopt.tpe:TPE using 127/127 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8608086
+
+INFO:root:	Std Dev: 0.012122226703044298
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004183 seconds
+INFO:hyperopt.tpe:TPE using 128/128 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8607102
+
+INFO:root:	Std Dev: 0.012062910153026928
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004197 seconds
+INFO:hyperopt.tpe:TPE using 129/129 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004395 seconds
+INFO:hyperopt.tpe:TPE using 130/130 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 1.0, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8608246000000002
+
+INFO:root:	Std Dev: 0.01230173822839684
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004177 seconds
+INFO:hyperopt.tpe:TPE using 131/131 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004415 seconds
+INFO:hyperopt.tpe:TPE using 132/132 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004571 seconds
+INFO:hyperopt.tpe:TPE using 133/133 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004431 seconds
+INFO:hyperopt.tpe:TPE using 134/134 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004430 seconds
+INFO:hyperopt.tpe:TPE using 135/135 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004405 seconds
+INFO:hyperopt.tpe:TPE using 136/136 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.860428
+
+INFO:root:	Std Dev: 0.011684068623557472
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004554 seconds
+INFO:hyperopt.tpe:TPE using 137/137 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 1.0, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004483 seconds
+INFO:hyperopt.tpe:TPE using 138/138 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8610050000000001
+
+INFO:root:	Std Dev: 0.011659151958869032
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004286 seconds
+INFO:hyperopt.tpe:TPE using 139/139 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8585396
+
+INFO:root:	Std Dev: 0.011995283032925916
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004164 seconds
+INFO:hyperopt.tpe:TPE using 140/140 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004206 seconds
+INFO:hyperopt.tpe:TPE using 141/141 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004535 seconds
+INFO:hyperopt.tpe:TPE using 142/142 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004465 seconds
+INFO:hyperopt.tpe:TPE using 143/143 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004428 seconds
+INFO:hyperopt.tpe:TPE using 144/144 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004172 seconds
+INFO:hyperopt.tpe:TPE using 145/145 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004446 seconds
+INFO:hyperopt.tpe:TPE using 146/146 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004449 seconds
+INFO:hyperopt.tpe:TPE using 147/147 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8612188
+
+INFO:root:	Std Dev: 0.011651301650888653
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004429 seconds
+INFO:hyperopt.tpe:TPE using 148/148 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004422 seconds
+INFO:hyperopt.tpe:TPE using 149/149 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004168 seconds
+INFO:hyperopt.tpe:TPE using 150/150 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004453 seconds
+INFO:hyperopt.tpe:TPE using 151/151 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004415 seconds
+INFO:hyperopt.tpe:TPE using 152/152 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004433 seconds
+INFO:hyperopt.tpe:TPE using 153/153 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004171 seconds
+INFO:hyperopt.tpe:TPE using 154/154 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8612188
+
+INFO:root:	Std Dev: 0.011651301650888653
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004214 seconds
+INFO:hyperopt.tpe:TPE using 155/155 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004302 seconds
+INFO:hyperopt.tpe:TPE using 156/156 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8612188
+
+INFO:root:	Std Dev: 0.011651301650888653
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004255 seconds
+INFO:hyperopt.tpe:TPE using 157/157 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8611112000000001
+
+INFO:root:	Std Dev: 0.012037445981602562
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004169 seconds
+INFO:hyperopt.tpe:TPE using 158/158 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004462 seconds
+INFO:hyperopt.tpe:TPE using 159/159 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8611744
+
+INFO:root:	Std Dev: 0.01152089021907594
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004204 seconds
+INFO:hyperopt.tpe:TPE using 160/160 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004413 seconds
+INFO:hyperopt.tpe:TPE using 161/161 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8611044
+
+INFO:root:	Std Dev: 0.01206983596574538
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004499 seconds
+INFO:hyperopt.tpe:TPE using 162/162 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8578490000000001
+
+INFO:root:	Std Dev: 0.012504198286975443
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004412 seconds
+INFO:hyperopt.tpe:TPE using 163/163 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1000, 'lambda': 0.1, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 1.0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004411 seconds
+INFO:hyperopt.tpe:TPE using 164/164 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 7, 'n_estimators': 1100, 'lambda': 1.0, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8603636
+
+INFO:root:	Std Dev: 0.012158454484020588
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004197 seconds
+INFO:hyperopt.tpe:TPE using 165/165 trials with best loss 0.138723
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8613144
+
+INFO:root:	Std Dev: 0.011619342452996223
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004164 seconds
+INFO:hyperopt.tpe:TPE using 166/166 trials with best loss 0.138686
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8606035999999999
+
+INFO:root:	Std Dev: 0.011797811536043463
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004419 seconds
+INFO:hyperopt.tpe:TPE using 167/167 trials with best loss 0.138686
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8589578
+
+INFO:root:	Std Dev: 0.011754379020603327
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004514 seconds
+INFO:hyperopt.tpe:TPE using 168/168 trials with best loss 0.138686
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004138 seconds
+INFO:hyperopt.tpe:TPE using 169/169 trials with best loss 0.138686
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8602002000000001
+
+INFO:root:	Std Dev: 0.011944649051353513
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004184 seconds
+INFO:hyperopt.tpe:TPE using 170/170 trials with best loss 0.138686
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8610671999999999
+
+INFO:root:	Std Dev: 0.011628677954092618
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004211 seconds
+INFO:hyperopt.tpe:TPE using 171/171 trials with best loss 0.138686
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004949 seconds
+INFO:hyperopt.tpe:TPE using 172/172 trials with best loss 0.138686
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.1, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8603522
+
+INFO:root:	Std Dev: 0.01214062648136414
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004443 seconds
+INFO:hyperopt.tpe:TPE using 173/173 trials with best loss 0.138686
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004150 seconds
+INFO:hyperopt.tpe:TPE using 174/174 trials with best loss 0.138686
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8604126000000001
+
+INFO:root:	Std Dev: 0.011447691131402869
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004147 seconds
+INFO:hyperopt.tpe:TPE using 175/175 trials with best loss 0.138686
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8610671999999999
+
+INFO:root:	Std Dev: 0.011628677954092618
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.026260 seconds
+INFO:hyperopt.tpe:TPE using 176/176 trials with best loss 0.138686
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8584308
+
+INFO:root:	Std Dev: 0.011051362040943171
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004400 seconds
+INFO:hyperopt.tpe:TPE using 177/177 trials with best loss 0.138686
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8595238000000001
+
+INFO:root:	Std Dev: 0.011869405804841276
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004403 seconds
+INFO:hyperopt.tpe:TPE using 178/178 trials with best loss 0.138686
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.861008
+
+INFO:root:	Std Dev: 0.011976567738713804
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004168 seconds
+INFO:hyperopt.tpe:TPE using 179/179 trials with best loss 0.138686
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8613389999999999
+
+INFO:root:	Std Dev: 0.011831836543833749
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004126 seconds
+INFO:hyperopt.tpe:TPE using 180/180 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004203 seconds
+INFO:hyperopt.tpe:TPE using 181/181 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004268 seconds
+INFO:hyperopt.tpe:TPE using 182/182 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004426 seconds
+INFO:hyperopt.tpe:TPE using 183/183 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004385 seconds
+INFO:hyperopt.tpe:TPE using 184/184 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.07500000000000001, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8596766
+
+INFO:root:	Std Dev: 0.011993965442671601
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004395 seconds
+INFO:hyperopt.tpe:TPE using 185/185 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.005066 seconds
+INFO:hyperopt.tpe:TPE using 186/186 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004145 seconds
+INFO:hyperopt.tpe:TPE using 187/187 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004170 seconds
+INFO:hyperopt.tpe:TPE using 188/188 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004399 seconds
+INFO:hyperopt.tpe:TPE using 189/189 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004324 seconds
+INFO:hyperopt.tpe:TPE using 190/190 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004498 seconds
+INFO:hyperopt.tpe:TPE using 191/191 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8594324
+
+INFO:root:	Std Dev: 0.01258791400669704
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004189 seconds
+INFO:hyperopt.tpe:TPE using 192/192 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8612645999999999
+
+INFO:root:	Std Dev: 0.01199663847250554
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004140 seconds
+INFO:hyperopt.tpe:TPE using 193/193 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004166 seconds
+INFO:hyperopt.tpe:TPE using 194/194 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004154 seconds
+INFO:hyperopt.tpe:TPE using 195/195 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004423 seconds
+INFO:hyperopt.tpe:TPE using 196/196 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8596514
+
+INFO:root:	Std Dev: 0.011893909123580886
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004197 seconds
+INFO:hyperopt.tpe:TPE using 197/197 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004150 seconds
+INFO:hyperopt.tpe:TPE using 198/198 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004150 seconds
+INFO:hyperopt.tpe:TPE using 199/199 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8556317999999999
+
+INFO:root:	Std Dev: 0.011007652799757059
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004414 seconds
+INFO:hyperopt.tpe:TPE using 200/200 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8611966000000001
+
+INFO:root:	Std Dev: 0.012120563198135618
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004805 seconds
+INFO:hyperopt.tpe:TPE using 201/201 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.860709
+
+INFO:root:	Std Dev: 0.012363824165685948
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004383 seconds
+INFO:hyperopt.tpe:TPE using 202/202 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004167 seconds
+INFO:hyperopt.tpe:TPE using 203/203 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004275 seconds
+INFO:hyperopt.tpe:TPE using 204/204 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8612396
+
+INFO:root:	Std Dev: 0.011976939218347873
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004146 seconds
+INFO:hyperopt.tpe:TPE using 205/205 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 1.0, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004412 seconds
+INFO:hyperopt.tpe:TPE using 206/206 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004154 seconds
+INFO:hyperopt.tpe:TPE using 207/207 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8613312000000001
+
+INFO:root:	Std Dev: 0.012088557323353366
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004195 seconds
+INFO:hyperopt.tpe:TPE using 208/208 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.005022 seconds
+INFO:hyperopt.tpe:TPE using 209/209 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 1.0, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004385 seconds
+INFO:hyperopt.tpe:TPE using 210/210 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004155 seconds
+INFO:hyperopt.tpe:TPE using 211/211 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8603284
+
+INFO:root:	Std Dev: 0.011808040338684486
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004402 seconds
+INFO:hyperopt.tpe:TPE using 212/212 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004407 seconds
+INFO:hyperopt.tpe:TPE using 213/213 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 1.0, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004144 seconds
+INFO:hyperopt.tpe:TPE using 214/214 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8594808
+
+INFO:root:	Std Dev: 0.012164885390335566
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004155 seconds
+INFO:hyperopt.tpe:TPE using 215/215 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8610692
+
+INFO:root:	Std Dev: 0.01196885988555301
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004131 seconds
+INFO:hyperopt.tpe:TPE using 216/216 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8611918
+
+INFO:root:	Std Dev: 0.012001443669825721
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004140 seconds
+INFO:hyperopt.tpe:TPE using 217/217 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.006002 seconds
+INFO:hyperopt.tpe:TPE using 218/218 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8607426
+
+INFO:root:	Std Dev: 0.012392540281959965
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004147 seconds
+INFO:hyperopt.tpe:TPE using 219/219 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.86028
+
+INFO:root:	Std Dev: 0.011817525375475169
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004394 seconds
+INFO:hyperopt.tpe:TPE using 220/220 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004390 seconds
+INFO:hyperopt.tpe:TPE using 221/221 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004151 seconds
+INFO:hyperopt.tpe:TPE using 222/222 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 1.0, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004934 seconds
+INFO:hyperopt.tpe:TPE using 223/223 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8596758000000001
+
+INFO:root:	Std Dev: 0.011576373134967632
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004170 seconds
+INFO:hyperopt.tpe:TPE using 224/224 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004161 seconds
+INFO:hyperopt.tpe:TPE using 225/225 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004278 seconds
+INFO:hyperopt.tpe:TPE using 226/226 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8551641999999999
+
+INFO:root:	Std Dev: 0.01126246172734898
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004172 seconds
+INFO:hyperopt.tpe:TPE using 227/227 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004386 seconds
+INFO:hyperopt.tpe:TPE using 228/228 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004391 seconds
+INFO:hyperopt.tpe:TPE using 229/229 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8610834
+
+INFO:root:	Std Dev: 0.012145762233799904
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004152 seconds
+INFO:hyperopt.tpe:TPE using 230/230 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004383 seconds
+INFO:hyperopt.tpe:TPE using 231/231 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004252 seconds
+INFO:hyperopt.tpe:TPE using 232/232 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8599186
+
+INFO:root:	Std Dev: 0.011768602781978832
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004174 seconds
+INFO:hyperopt.tpe:TPE using 233/233 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.05, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8606083999999999
+
+INFO:root:	Std Dev: 0.011394577054020055
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004385 seconds
+INFO:hyperopt.tpe:TPE using 234/234 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004220 seconds
+INFO:hyperopt.tpe:TPE using 235/235 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004409 seconds
+INFO:hyperopt.tpe:TPE using 236/236 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004272 seconds
+INFO:hyperopt.tpe:TPE using 237/237 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 1.0, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004209 seconds
+INFO:hyperopt.tpe:TPE using 238/238 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004402 seconds
+INFO:hyperopt.tpe:TPE using 239/239 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004255 seconds
+INFO:hyperopt.tpe:TPE using 240/240 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004264 seconds
+INFO:hyperopt.tpe:TPE using 241/241 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 9, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.6000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8597807999999999
+
+INFO:root:	Std Dev: 0.01172032237440589
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004429 seconds
+INFO:hyperopt.tpe:TPE using 242/242 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004413 seconds
+INFO:hyperopt.tpe:TPE using 243/243 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004146 seconds
+INFO:hyperopt.tpe:TPE using 244/244 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 1.0, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 17, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8576064000000001
+
+INFO:root:	Std Dev: 0.011328854286290367
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.027906 seconds
+INFO:hyperopt.tpe:TPE using 245/245 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.7000000000000001, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.005032 seconds
+INFO:hyperopt.tpe:TPE using 246/246 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004384 seconds
+INFO:hyperopt.tpe:TPE using 247/247 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.025, 'objective': 'binary:logistic', 'max_depth': 4, 'alpha': 0.1, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.6, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8607191999999999
+
+INFO:root:	Std Dev: 0.011703207994391961
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004477 seconds
+INFO:hyperopt.tpe:TPE using 248/248 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 7, 'alpha': 0, 'seed': 42, 'colsample_bytree': 0.5, 'subsample': 0.8, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.004205 seconds
+INFO:hyperopt.tpe:TPE using 249/249 trials with best loss 0.138661
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.3, 'eval_metric': 'auc', 'silent': 1, 'min_child_weight': 3, 'n_estimators': 1100, 'lambda': 0.01, 'eta': 0.0, 'objective': 'binary:logistic', 'max_depth': 5, 'alpha': 0.5, 'seed': 42, 'colsample_bytree': 0.4, 'subsample': 0.4, 'nthread': 4, 'booster': 'gbtree', 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.5
+
+INFO:root:	Std Dev: 0.0
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.002950 seconds
+INFO:hyperopt.tpe:TPE using 0 trials
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.93, 'booster': 'gbtree', 'objective': 'binary:logistic', 'eval_metric': 'auc', 'silent': 1, 'alpha': 0.5, 'subsample': 0.4, 'eta': 0.01, 'tree_method': 'exact', 'seed': 42, 'max_depth': 4, 'colsample_bytree': 0.4, 'nthread': 4}
+INFO:root:	Mean Score: 0.8605539999999999
+
+INFO:root:	Std Dev: 0.0118797350643859
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.003357 seconds
+INFO:hyperopt.tpe:TPE using 1/1 trials with best loss 0.139446
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.8, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.93, 'booster': 'gbtree', 'objective': 'binary:logistic', 'eval_metric': 'auc', 'silent': 1, 'alpha': 0.5, 'subsample': 0.4, 'eta': 0.01, 'tree_method': 'exact', 'seed': 42, 'max_depth': 4, 'colsample_bytree': 0.4, 'nthread': 4}
+INFO:root:	Mean Score: 0.8605556
+
+INFO:root:	Std Dev: 0.011884135149012733
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.003308 seconds
+INFO:hyperopt.tpe:TPE using 2/2 trials with best loss 0.139444
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'booster': 'gbtree', 'objective': 'binary:logistic', 'eval_metric': 'auc', 'silent': 1, 'alpha': 0.5, 'subsample': 0.4, 'eta': 0.01, 'tree_method': 'exact', 'seed': 42, 'max_depth': 4, 'colsample_bytree': 0.4, 'nthread': 4}
+INFO:root:	Mean Score: 0.8605192
+
+INFO:root:	Std Dev: 0.011926672518351469
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.003467 seconds
+INFO:hyperopt.tpe:TPE using 3/3 trials with best loss 0.139444
+INFO:root:Training with params: 
+INFO:root:{'gamma': 0.4, 'min_child_weight': 5, 'n_estimators': 1000, 'lambda': 0.9, 'booster': 'gbtree', 'objective': 'binary:logistic', 'eval_metric': 'auc', 'silent': 1, 'alpha': 0.5, 'subsample': 0.4, 'eta': 0.01, 'tree_method': 'exact', 'seed': 42, 'max_depth': 4, 'colsample_bytree': 0.4, 'nthread': 4}
+INFO:root:	Mean Score: 0.8605192
+
+INFO:root:	Std Dev: 0.011926672518351469
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.002981 seconds
+INFO:hyperopt.tpe:TPE using 0 trials
+INFO:root:Training with params: 
+INFO:root:{'subsample': 0.4, 'max_depth': 4, 'alpha': 0.5, 'n_estimators': 1000, 'silent': 1, 'lambda': 0.93, 'colsample_bytree': 0.4, 'eval_metric': 'auc', 'seed': 42, 'objective': 'binary:logistic', 'booster': 'gbtree', 'gamma': 0.4, 'eta': 0.01, 'nthread': 4, 'min_child_weight': 5, 'tree_method': 'exact'}
+INFO:root:	Mean Score: 0.8605539999999999
+
+INFO:root:	Std Dev: 0.0118797350643859
+
+
+INFO:hyperopt.tpe:tpe_transform took 0.003389 seconds
+INFO:hyperopt.tpe:TPE using 1/1 trials with best loss 0.139446
+INFO:root:Training with params: 
+INFO:root:{'subsample': 0.4, 'max_depth': 4, 'alpha': 0.5, 'n_estimators': 1000, 'silent': 1, 'lambda': 0.93, 'colsample_bytree': 0.4, 'eval_metric': 'auc', 'seed': 42, 'objective': 'binary:logistic', 'booster': 'gbtree', 'gamma': 0.8, 'eta': 0.01, 'nthread': 4, 'min_child_weight': 5, 'tree_method': 'exact'}
