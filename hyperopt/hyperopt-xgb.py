@@ -102,38 +102,18 @@ def optimize(random_state=SEED):
     hyperparameters and a scoring function (score here),
     finds the best hyperparameters.
     """
-
-    # space = {
-    #     'n_estimators': hp.choice('n_estimators', [1000, 1100]),
-    #     'eta': hp.quniform('eta', 0.01, 0.1, 0.025),
-    #     'max_depth': hp.choice('max_depth', [4, 5, 7, 9, 17]),
-    #     'min_child_weight': hp.choice('min_child_weight', [3, 5, 7]),
-    #     'subsample': hp.choice('subsample', [0.4, 0.6, 0.8]),
-    #     'gamma': hp.choice('gamma', [0.3, 0.4]),
-    #     'colsample_bytree': hp.quniform('colsample_bytree', 0.4, 0.7, 0.1),
-    #     'lambda': hp.choice('lambda', [0.01, 0.1, 0.9, 1.0]),
-    #     'alpha': hp.choice('alpha', [0, 0.1, 0.5, 1.0]),
-    #     'eval_metric': 'auc',
-    #     'objective': 'binary:logistic',
-    #     # Increase this number if you have more cores.
-    #     # Otherwise, remove it and it will default
-    #     # to the maxium number.
-    #     'nthread': 4,
-    #     'booster': 'gbtree',
-    #     'tree_method': 'exact',
-    #     'silent': 1,
-    #     'seed': random_state
-    # }
+    
+    """预设的调参范围"""
     space = {
-        'n_estimators': hp.choice('n_estimators', [1000]),
-        'eta': hp.choice('eta', [0.01]),
-        'max_depth': hp.choice('max_depth', [4]),
-        'min_child_weight': hp.choice('min_child_weight', [5]),
-        'subsample': hp.choice('subsample', [0.4]),
-        'gamma': hp.choice('gamma', [0.4, 0.8]),
-        'colsample_bytree': hp.choice('colsample_bytree', [0.4]),
-        'lambda': hp.choice('lambda', [0.9, 0.93]),
-        'alpha': hp.choice('alpha', [0.5]),
+        'n_estimators': hp.choice('n_estimators', [1000, 1100]),
+        'eta': hp.quniform('eta', 0.01, 0.1, 0.025),
+        'max_depth': hp.choice('max_depth', [4, 5, 7, 9, 17]),
+        'min_child_weight': hp.choice('min_child_weight', [3, 5, 7]),
+        'subsample': hp.choice('subsample', [0.4, 0.6, 0.8]),
+        'gamma': hp.choice('gamma', [0.3, 0.4]),
+        'colsample_bytree': hp.quniform('colsample_bytree', 0.4, 0.7, 0.1),
+        'lambda': hp.choice('lambda', [0.01, 0.1, 0.9, 1.0]),
+        'alpha': hp.choice('alpha', [0, 0.1, 0.5, 1.0]),
         'eval_metric': 'auc',
         'objective': 'binary:logistic',
         # Increase this number if you have more cores.
@@ -145,6 +125,29 @@ def optimize(random_state=SEED):
         'silent': 1,
         'seed': random_state
     }
+
+    """调参最优的结果"""
+    # space = {
+    #     'n_estimators': hp.choice('n_estimators', [1000]),
+    #     'eta': hp.choice('eta', [0.01]),
+    #     'max_depth': hp.choice('max_depth', [4]),
+    #     'min_child_weight': hp.choice('min_child_weight', [5]),
+    #     'subsample': hp.choice('subsample', [0.4]),
+    #     'gamma': hp.choice('gamma', [0.4, 0.8]),
+    #     'colsample_bytree': hp.choice('colsample_bytree', [0.4]),
+    #     'lambda': hp.choice('lambda', [0.9, 0.93]),
+    #     'alpha': hp.choice('alpha', [0.5]),
+    #     'eval_metric': 'auc',
+    #     'objective': 'binary:logistic',
+    #     # Increase this number if you have more cores.
+    #     # Otherwise, remove it and it will default
+    #     # to the maxium number.
+    #     'nthread': 4,
+    #     'booster': 'gbtree',
+    #     'tree_method': 'exact',
+    #     'silent': 1,
+    #     'seed': random_state
+    # }
     # Use the fmin function from Hyperopt to find the best hyperparameters
     best = fmin(score, space, algo=tpe.suggest,  max_evals=4)
     return best
