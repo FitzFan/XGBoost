@@ -108,12 +108,12 @@ def optimize(random_state=SEED):
         'n_estimators': hp.choice('n_estimators', [1000, 1100]),
         'eta': hp.quniform('eta', 0.01, 0.1, 0.025),
         'max_depth': hp.choice('max_depth', [4, 5, 7, 9, 17]),
-        'min_child_weight': hp.choice('min_child_weight', [3, 5, 7]),
-        'subsample': hp.choice('subsample', [0.4, 0.6, 0.8]),
-        'gamma': hp.choice('gamma', [0.3, 0.4]),
+        'min_child_weight': hp.choice('min_child_weight', [3, 5, 7]), # 子节点中最小的样本权重和。如果一个叶子节点的样本权重和小于 min_child_weight 则分裂过程结束。
+        'subsample': hp.choice('subsample', [0.4, 0.6, 0.8]), # 用于训练模型的子样本占整个样本集合的比例。
+        'gamma': hp.choice('gamma', [0.3, 0.4]), # 值越大，会使算法越 conservative。
         'colsample_bytree': hp.quniform('colsample_bytree', 0.4, 0.7, 0.1),
-        'lambda': hp.choice('lambda', [0.01, 0.1, 0.9, 1.0]),
-        'alpha': hp.choice('alpha', [0, 0.1, 0.5, 1.0]),
+        'lambda': hp.choice('lambda', [0.01, 0.1, 0.9, 1.0]), # L2正则的参数
+        'alpha': hp.choice('alpha', [0, 0.1, 0.5, 1.0]), # L1正则的参数
         'eval_metric': 'auc',
         'objective': 'binary:logistic',
         # Increase this number if you have more cores.
